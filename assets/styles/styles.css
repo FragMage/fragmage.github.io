@@ -99,7 +99,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: black;
+        background-color: #3b3b3b;
         color: #c8cbcd;
     }
 
